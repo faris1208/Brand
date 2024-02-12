@@ -9,8 +9,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
-    /* border: 2px solid green; */
+    padding: 10px 10px;
+    border: 2px solid green;
     background: #12182B;
 
 }
@@ -37,7 +37,7 @@
 .Utilize-head{
     width: 100%;
     /* border: 2px solid red; */
-    padding: 20px;
+    padding: 20px 10px;
 }
 
 .Utilize h1{
@@ -341,13 +341,11 @@
 
 .Mentors-adam h2{
     font-family: PoppinsBold;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 600;
     line-height: 72px;
     letter-spacing: 0em;
     text-align: center;
-    
-    
 }
 
 .Mentors-adam p{
@@ -680,6 +678,7 @@
         font-family: PoppinsRegular;
         width: 100%;
         max-width: 1440px;
+        margin: 0px auto;
     }
     
     .Navbar{
